@@ -1,0 +1,23 @@
+# Secrets — NE JAMAIS POUSSER
+.env
+serviceAccountKey.json
+*-firebase-adminsdk-*.json
+google-services.json
+GoogleService-Info.plist
+mobile/lib/firebase_options.dart
+
+# Node
+node_modules/
+dist/
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Flutter
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+
+.DS_Store
+.idea/
+.vscode/
