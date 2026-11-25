@@ -5,7 +5,7 @@
 Projet pédagogique intégrateur — 3e année E-Business, ESSECT
 Modules : Intégration Web · Développement Mobile · Paiement électronique
 
-Les restaurants, cafés, cafétérias et boulangeries proches de l'ESSECT publient leurs invendus du jour à prix réduits. Les étudiants les réservent, **paient en ligne avec DHMAD**, reçoivent un **e-mail de confirmation avec un QR code**, puis récupèrent leur commande sur place.
+Les restaurants, cafés, cafétérias et boulangeries proches de l'ESSECT publient leurs invendus du jour à prix réduits. Les étudiants les réservent, **paiement en ligne avec DHMAD**, reçoivent un **e-mail de confirmation avec un QR code**, puis récupèrent leur commande sur place.
 
 ## 👥 Équipe
 
